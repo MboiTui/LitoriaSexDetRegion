@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Building the first Linkage Map for Litoria serrata
+title: Identifying the sex-determining region in litoria
 email: lorenzo.bertola@my.jcu.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Supplementary code for the paper "The first high-density linkage map for Australopapuan Treefrogs (Family: Pelodryadidae) reveals the sex determining locus of the Green-eyed Treefrog (Litoria serrata).".
-baseurl: "/HighDensityLinkageMap" # the subpath of your site, e.g. /blog HighDensityLinkageMap
+  Supplementary code for the paper "A candidate sex determination region in Australo-Papuan Treefrogs suggests a conserved role for Dmrt genes in anurans".
+baseurl: "/LitoriaSexDetRegion" # the subpath of your site, e.g. /blog HighDensityLinkageMap
 url: "https://mboitui.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ItsFrogday
 github_username:  MboiTui
