@@ -18,17 +18,28 @@ In this supplementary material we cover all the code for data processing and ana
 
 ### Linkage mapping with LepMap3
 
-### Identification of Sex-linked and Sex-associated markers
+### Compare linkage maps and genome assembly
 
+### Identification of candidate sex-determining region
+
+#### Data preparation
 1. [Genotype all lineages together](1_ProcessRadtags.html)
 2. [Assess population structure](2_PopulationStructure_pub.html)
 3. [Genotype by lineage](3_GenotypeByLineage.html)
 4. [Filter low call rate individuals](4_FilterIndividuals.html)
 
-### Mapping candidate sex determination genes
+#### Analyses of sex-linkage
+5a. Identify sex linked markers with uneven sex ratios [LM](5_SexLinkedMarkers_LM.html)-[LN](5_SexLinkedMarkers_LN.html)-[LS](5_SexLinkedMarkers_LS.html)
+5b. Identify sex linked markers with even sex ratios [LM](5_SexLinkedMarkers_LM_Even.html)-[LN](5_SexLinkedMarkers_LN_Even.html)-[LS](5_SexLinkedMarkers_LS_Even.html)
+6a. [Running permutation tests](6_1_SexLinkedMarkers_PermutationTest.html)
+6b. Assessing significance for [uneven](6_2_SexLinkedMarkers_PermutationTest_Check.html) and [even]() sample sizes
 
-### Compare linkage maps and genome assembly
+#### Analyses of sex-association (i.e., GWAS with SNPassoc)
+7. [Sex-association tests with SNPassoc](7_SexLinkedMarkers_GWAS_pub.html)
 
+#### Mapping candidate sex determination genes
+8. [Mapping genes involved in sex determination to Litoria assembly](8_SexLinkedMarkers_BlastSexLinkedRegion.html)
+   
 ### Make publication figures
 
 ### R and packages version summary
