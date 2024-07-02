@@ -20,6 +20,11 @@ In this supplementary material we cover all the code for data processing and ana
 
 ### Identification of Sex-linked and Sex-associated markers
 
+1. [Genotype all lineages together](1_ProcessRadtags.html)
+2. [Assess population structure](2_PopulationStructure_pub.html)
+3. [Genotype by lineage](3_GenotypeByLineage.html)
+4. [Filter low call rate individuals](4_FilterIndividuals.html)
+
 ### Mapping candidate sex determination genes
 
 ### Compare linkage maps and genome assembly
